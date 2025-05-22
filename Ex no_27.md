@@ -13,7 +13,7 @@ To write a C program that demonstrates the use of typedef to create a new alias 
 8. End.   
 
 ## Program:
-```
+
 #include <stdio.h>
 typedef int MyInt;
 int main() {
@@ -21,7 +21,7 @@ int main() {
  printf("The value of num is: %d\n", num);
  return 0;
 }
-```
+
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/5abbbaaa-f0f4-4acc-8322-b2af1739d68e)
