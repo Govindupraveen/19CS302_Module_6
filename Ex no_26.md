@@ -11,7 +11,7 @@ To write a C program to demonstrate a self-referential structure where an employ
 5. End.
 
 ## Program:
-```
+
 #include <stdio.h>
 #include <stdlib.h>
 struct Employee {
