@@ -8,10 +8,10 @@ To write a C program to demonstrate a self-referential structure where an employ
 2. Create a structure and data member using pointer.
 3. Prompt the user to enter a value.
 4. Print the structure values.
-5. End.
+5. End
 
 ## Program:
-
+```
 #include <stdio.h>
 #include <stdlib.h>
 struct Employee {
@@ -44,7 +44,9 @@ NULL) ? "None" : emp1->manager->name);
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/4f426d76-b3a5-48cc-8193-9f997d50fa1c)
+
+![image](https://github.com/user-attachments/assets/ebf6b04a-a2a3-475e-b836-264a97223610)
+
 
 ## Result:
 Thus the program was executed and the output was verified successfully.
