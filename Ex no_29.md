@@ -12,7 +12,7 @@ To write a C program to create two float variables using calloc() and find minim
 6. End   
 
 ## Program:
-```
+``
 #include <stdio.h>
 #include <stdlib.h>
 int main() {
