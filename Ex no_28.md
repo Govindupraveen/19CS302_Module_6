@@ -9,7 +9,7 @@ To write a C program that demonstrates the use of enum (enumeration) type to def
 3. Declare all days in a week
 4. Print result
 5. End
-6. 
+
 ## Program:
 ```
 #include <stdio.h>
@@ -25,7 +25,8 @@ int main() {
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/f09ed715-ebca-4b0c-8f83-f9f67245b32e)
+![image](https://github.com/user-attachments/assets/bfe0b197-65b1-493e-80da-2aed386179f4)
+
 
 
 ## Result:
