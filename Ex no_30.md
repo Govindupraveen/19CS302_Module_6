@@ -12,7 +12,7 @@ To write a C program to add two integer elements in an array using realloc() and
 6. End. 
 
 ## Program:
-```
+``
 #include <stdio.h>
 #include <stdlib.h>
 int main() {
