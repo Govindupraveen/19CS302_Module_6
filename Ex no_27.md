@@ -1,4 +1,5 @@
 # EX 27 C program that demonstrates the use of typedef to create a new alias name for a data type.
+## DATE:
 ## AIM:
 To write a C program that demonstrates the use of typedef to create a new alias name for a data type.
 
@@ -11,9 +12,10 @@ To write a C program that demonstrates the use of typedef to create a new alias 
 6. If age >= 21, print "Eligible".
 7. If false, print " Not Eligible".
 8. End.   
+ 
 
 ## Program:
-
+```
 #include <stdio.h>
 typedef int MyInt;
 int main() {
@@ -22,9 +24,13 @@ int main() {
  return 0;
 }
 
+```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/5abbbaaa-f0f4-4acc-8322-b2af1739d68e)
+![image](https://github.com/user-attachments/assets/aa995a25-86d2-499c-a477-49c5c5e32468)
+
+
+
 
 ## Result:
 Thus the program was executed and the output was verified successfully.
